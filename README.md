@@ -1,6 +1,6 @@
 # Hi, I'm Bassam 👋
 
-Computer Engineering student intereste in Machine Learning and AI.
+Computer Engineering student intereste in ML and AI.
 
 ## Skills
 - Python 
