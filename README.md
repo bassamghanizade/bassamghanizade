@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi, I'm Bassam 👋
+
+Computer Engineering student interested in Software Engineering and AI.
+
+## Skills
+- Python (beginner)
+- Git & GitHub
+- Problem Solving
+
+## Goals
+- Build strong programming foundations
+- Prepare for graduate studies in Computer Science
 
 <!--
 **bassamghanizade/bassamghanizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
