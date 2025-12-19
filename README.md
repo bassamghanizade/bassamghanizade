@@ -3,7 +3,7 @@
 Computer Engineering student interested in Software Engineering and AI.
 
 ## Skills
-- Python (beginner)
+- Python 
 - Git & GitHub
 - Problem Solving
 
